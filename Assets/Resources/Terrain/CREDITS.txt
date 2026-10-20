@@ -1,0 +1,24 @@
+Terrain textures (CC0 / open sources):
+
+Poly Haven (https://polyhaven.com) — CC0:
+- rock_06, aerial_rocks_02, rocky_terrain, rock_face
+- coast_sand_rocks_02, mud_forest, forrest_ground
+- leafy_grass, aerial_grass_rock, castle/brick variants
+- rockwall-style stones used as wall albedo
+
+three.js examples (MIT) via jsDelivr:
+- waternormals.jpg — water normal scroll
+- grasslight-big.jpg / grasslight-big-nm.jpg — short grass pad
+
+Generated:
+- water_diff.jpg — soft procedural shallow-water tint (fallback)
+
+Piloto Studio (project stock meshes, heavily downscaled):
+- SM_Rock_* (optional rubble only, clamped to cell)
+- Brick_Pieces (tiny chips)
+- Plant.fbx (rare, max ~0.32 cell height)
+
+Sizing notes (board cell ≈ 0.24u):
+- Walls: low slab + rubble ≤ ~0.55 cell tall
+- Grass blades: 0.16–0.30 cell; no tall bushes
+- Water: thin transparent pool + scrolled normals; no foam/glow lights

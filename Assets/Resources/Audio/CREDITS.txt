@@ -1,0 +1,18 @@
+# Audio Credits
+
+## BGM
+- Battle.wav — 桌面 grok图「战斗音乐」mp4 抽出的音轨（开战 BGM 主用）
+- BattleGrok.mp4 — 同源 mp4 备份（无 wav 时 VideoPlayer 回退）
+- Formation.wav — procedural anime/slice-of-life prep loop (project-generated)
+- BattleSynth.wav — synth backup
+- Stage.wav — ParallelStage 场地 BGM（Blender 源引用：P＊Light/ギガP/初音ミク - Gimme×Gimme.wav）。
+  把该 wav 复制到本目录并改名为 Stage.wav；缺文件时自动回退 Formation。
+
+## SFX (anime / magical JRPG style)
+- Hit / Whoosh / MagicCast / Heal / Buff / QTE / UI / Victory / Defeat
+  — procedural 二次元-flavored synth pack (project-generated WAV)
+- PhoneRing / PhoneHangup / PhoneMash / PhoneConnect
+  — procedural dual-tone phone gag SFX for Buff↔Ice prank call (project-generated WAV)
+
+Paths: Assets/Resources/Audio/{Bgm,Sfx}
+Runtime hub: NexusAnima.GameAudio

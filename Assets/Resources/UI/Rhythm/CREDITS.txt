@@ -1,0 +1,7 @@
+Rhythm UI (二次元音游风)
+-----------------------
+Note / Receptor / Approach / Highway / Flash* / Badge* / Dot*
+  - Procedural anime-style panels generated for NexusAnimaDemo (pink-cyan glow, glass highway).
+
+approachcircle.png
+  - From ppy/osu-resources (MIT) via jsDelivr CDN — optional fallback ring.

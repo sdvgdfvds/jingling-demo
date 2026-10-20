@@ -1,0 +1,3 @@
+Cute UI sources used by NexusAnimaDemo bond panel:
+1) Pocket GUI by Vryell — https://vryell.itch.io/pocket-gui (commercial OK, no redistribution)
+2) Kenney UI Pack — https://kenney.nl/assets/ui-pack (CC0)
