@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7333ae3b1bf2843aa1f9433a39a16b, type: 3}
+  m_Name: e_water_dps2
+  m_EditorClassIdentifier: Assembly-CSharp::NexusAnima.SpiritDefinition
+  Id: e_water_dps2
+  DisplayName: "\u654C\xB7\u6D6A\u5203\u4E59"
+  PrincipleDisplayName: 
+  TraitDisplayName: 
+  RoleDisplayName: 
+  SpeciesDisplayName: "\u6D6A\u5203\u517D"
+  Element: 1
+  Trait: 1
+  Color: {r: 0.18, g: 0.35, b: 0.75, a: 1}
+  MaxHp: 480
+  Atk: 65
+  Def: 14
+  AttackSpeed: 1.2
+  AttackRange: 3
+  MoveSpeed: 3.8
+  EnergyPerAttack: 12
+  ActiveSkillName: 
+  ActiveSkillKind: 0
+  SkillMultiplier: 1
+  SkillDuration: 0
+  SkillHits: 1
+  HealAmount: 0
+  IsPhysical: 1
+  ModelName: Art_KS_6701_00
+  Targeting: 1
+  IsFlying: 0
+  BodyYFineTune: 0.0012
+  MoveIntervalMultiplier: 1
+  SkipWalkBob: 0
+  EnableWingFlap: 0
+  IdleProfile:
+    BodyFrequency: 0.33
+    BobAmplitude: 0.0032
+    SwayAmplitude: 0.11
+    TailFrequency: 0.22
+    TailAmplitude: 0.7
+    PhaseOffset: 1.3

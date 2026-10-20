@@ -1,0 +1,59 @@
+# Unity generated files
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+
+# Local work files and downloaded source material
+/_Backups/
+/_External/
+/_tmp_stage_import/
+/_UiDownloads/
+/GeneratedAssets/
+/jingling/
+/TempAudio/
+/TempHeightAudit/
+/TempPhoneAssets/
+/TempQteAssets/
+/TempTerrainAssets/
+/Tools/
+/_agent_*.png
+/战斗策划_简历精简版.md
+/OpenDemo.bat
+/Assets/_AgentCaptures/
+/Assets/_AgentCaptures.meta
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+/ProjectSettings/UnityConnectSettings.asset
+/ProjectSettings/UnityConnectSettings.asset.tuanjie.bak
+
+# The extracted asset is already present in Assets
+*.unitypackage
+*.unitypackage.meta
+
+# IDE and local settings
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+.env.*
+*.p12
+*.pfx
+*.pem
+*.key

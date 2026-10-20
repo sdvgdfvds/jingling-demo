@@ -1,0 +1,2 @@
+Spirit URP fix 2026-09-02 16:07:54
+spiritOk=25 spiritBad=0

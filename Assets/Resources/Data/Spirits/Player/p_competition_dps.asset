@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7333ae3b1bf2843aa1f9433a39a16b, type: 3}
+  m_Name: p_competition_dps
+  m_EditorClassIdentifier: Assembly-CSharp::NexusAnima.SpiritDefinition
+  Id: p_competition_dps
+  DisplayName: "\u8292\u661F\u9E6B"
+  PrincipleDisplayName: "\u7ADE\u4E89"
+  TraitDisplayName: "\u89D2\u6597\u58EB"
+  RoleDisplayName: "\u9AD8\u673A\u52A8\u8FDC\u7A0B\u7269\u7406\u8F93\u51FA"
+  SpeciesDisplayName: "\u661F\u9E6B"
+  Element: 1
+  Trait: 1
+  Color: {r: 0.15, g: 0.3, b: 0.7, a: 1}
+  MaxHp: 520
+  Atk: 65
+  Def: 14
+  AttackSpeed: 1.2
+  AttackRange: 3
+  MoveSpeed: 3.8
+  EnergyPerAttack: 12
+  ActiveSkillName: 
+  ActiveSkillKind: 0
+  SkillMultiplier: 1
+  SkillDuration: 0
+  SkillHits: 1
+  HealAmount: 0
+  IsPhysical: 1
+  ModelName: Art_KS_3304_00
+  Targeting: 1
+  IsFlying: 1
+  BodyYFineTune: 0
+  MoveIntervalMultiplier: 0.72
+  SkipWalkBob: 1
+  EnableWingFlap: 1
+  IdleProfile:
+    BodyFrequency: 0.28
+    BobAmplitude: 0.0028
+    SwayAmplitude: 0.09
+    TailFrequency: 0.19
+    TailAmplitude: 0.6
+    PhaseOffset: 2.2

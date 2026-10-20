@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7333ae3b1bf2843aa1f9433a39a16b, type: 3}
+  m_Name: p_beauty_dps
+  m_EditorClassIdentifier: Assembly-CSharp::NexusAnima.SpiritDefinition
+  Id: p_beauty_dps
+  DisplayName: "\u51E4\u7FCE"
+  PrincipleDisplayName: "\u7F8E\u4E3D"
+  TraitDisplayName: "\u5C0F\u5929\u4F7F"
+  RoleDisplayName: "\u540E\u6392\u6CD5\u672F\u8F85\u52A9\u8F93\u51FA"
+  SpeciesDisplayName: "\u51E4\u9E1F"
+  Element: 2
+  Trait: 2
+  Color: {r: 0.95, g: 0.35, b: 0.2, a: 1}
+  MaxHp: 440
+  Atk: 45
+  Def: 12
+  AttackSpeed: 1.2
+  AttackRange: 3
+  MoveSpeed: 3.8
+  EnergyPerAttack: 10
+  ActiveSkillName: 
+  ActiveSkillKind: 0
+  SkillMultiplier: 1
+  SkillDuration: 0
+  SkillHits: 1
+  HealAmount: 0
+  IsPhysical: 0
+  ModelName: Art_KS_2302_00
+  Targeting: 1
+  IsFlying: 1
+  BodyYFineTune: 0
+  MoveIntervalMultiplier: 1
+  SkipWalkBob: 1
+  EnableWingFlap: 1
+  IdleProfile:
+    BodyFrequency: 0.3
+    BobAmplitude: 0.003
+    SwayAmplitude: 0.1
+    TailFrequency: 0.21
+    TailAmplitude: 0.7
+    PhaseOffset: 0.9

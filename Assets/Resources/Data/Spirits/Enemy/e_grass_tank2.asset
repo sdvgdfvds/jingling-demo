@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7333ae3b1bf2843aa1f9433a39a16b, type: 3}
+  m_Name: e_grass_tank2
+  m_EditorClassIdentifier: Assembly-CSharp::NexusAnima.SpiritDefinition
+  Id: e_grass_tank2
+  DisplayName: "\u654C\xB7\u5BB5\u72D0\u59AE"
+  PrincipleDisplayName: 
+  TraitDisplayName: 
+  RoleDisplayName: 
+  SpeciesDisplayName: "\u72D0"
+  Element: 2
+  Trait: 0
+  Color: {r: 0.25, g: 0.5, b: 0.22, a: 1}
+  MaxHp: 780
+  Atk: 38
+  Def: 28
+  AttackSpeed: 1
+  AttackRange: 3
+  MoveSpeed: 3.2
+  EnergyPerAttack: 14
+  ActiveSkillName: 
+  ActiveSkillKind: 0
+  SkillMultiplier: 1
+  SkillDuration: 0
+  SkillHits: 1
+  HealAmount: 0
+  IsPhysical: 1
+  ModelName: Art_KS_1605_00
+  Targeting: 1
+  IsFlying: 0
+  BodyYFineTune: 0.0008
+  MoveIntervalMultiplier: 1
+  SkipWalkBob: 0
+  EnableWingFlap: 0
+  IdleProfile:
+    BodyFrequency: 0.5
+    BobAmplitude: 0.005
+    SwayAmplitude: 0.24
+    TailFrequency: 0.33
+    TailAmplitude: 1.5
+    PhaseOffset: 2.7
